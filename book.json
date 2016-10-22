@@ -1,0 +1,6 @@
+{
+	"plugins": [
+		"book-summary-scroll-position-saver",
+		"expandable-chapters"
+	]
+}
