@@ -8,4 +8,3 @@
 * [Awards](awards.md)
 * [Projects](projects.md)
 * [Contact](projects.md)
-
