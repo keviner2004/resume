@@ -1,6 +1,7 @@
 {
 	"plugins": [
 		"book-summary-scroll-position-saver",
-		"expandable-chapters"
+		"expandable-chapters",
+		"youtube"
 	]
 }

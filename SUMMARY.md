@@ -5,6 +5,6 @@
 * [Education](education.md)
 * [Work Experiences](workexperiences.md)
 * [Skills](skills.md)
-* [Awards](awards.md)
+* [Honors & Awards](awards.md)
 * [Projects](projects.md)
 * [Contact](projects.md)
