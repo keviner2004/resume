@@ -49,9 +49,9 @@ https://youtu.be/l4Hh5pXQaB0
 <br />
 <font color="darkgrey">December 2013</font>
 <br />
-#####7 Latterns
+#####7 Lanterns
 
-7 Lantern is a puzzle game. 
+7 Lanterns is a puzzle game inspired by the Hungry Ghost Festival in Taiwan. The characters: 7 Lanterns appeared in the Hungry Ghost Festival. In order to celebrate their freedom, they went to an ancient temple. And unfortunately they got lost! Help the 7 Lanterns find a way out by moving the boxes, avoid the traps, and collect rewards in the temple.
 
 ######Using
 * Unity3D
@@ -91,10 +91,15 @@ https://youtu.be/iDtGn4DSABU
 <br />
 <font color="darkgrey">November 2011</font>
 <br />
+
+#####Mypipe
+This is my first time to join the software development competition. We created the service named Mypipe on the Chunghwa Telecom Multimedia on Demand(MOD) which is the set-top box provide VOD like movies and dramas for users. Mypipe consists of the file synchronization system, the video transcoding system, the mobile app and the MOD application. Mypipe allows MOD users cast their uploaded video to the MOD via the mobile device (like the Chromecast released on July 24, 2013 by Google). The file synchronization system also became my thesis in NTHU. The video below is the demo of the file synchronization system.
 ######Using
 * IPTV
 * Python
 * Flex
+* FFmpeg
+* Android
 * Google App Engine
 
 ######Video
