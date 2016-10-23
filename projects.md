@@ -4,6 +4,18 @@
 <font color="darkgrey">February 2016 May – now</font>
 <br />
 
+Shoot-em-up is a Corona SDK STG (Shoot 'Em Up Game) template. It's design for the Game Developing Training Courses. The idea of the template is to create a "easy" interface for beginner game developers to finish a amazing STG together.
+
+The template provides:
+
+* Library for creating game objects in STG like enemy, bullet, and items.
+* Library for advanced moving like seeking and curved transition.
+* Library for using sprite easily.
+* The log server stored players' scores and behavior.
+* Modularized level design. Each level is defined in the separated file.
+* CC0 Game Arts from Kenny Assets.
+* Complete implementation of the user interface: start menu, level selection, leader board, etc.
+
 ##### Github
 
 https://github.com/keviner2004/shoot-em-up
@@ -25,8 +37,14 @@ Flipper is a game for my ex-girlfriend. When we were dating, we prepared birthda
 
 I wanted to put our daily memories to this game. I collected our photos and put they on the desk. My chin rested on my right hand like "The Thinker" and I thought for a while. Finally, I decided to make a card matching game of two players and made these cards by our photos. The game is shown in the following video but I replace these photos with colored images because of privacy. I will always remember that day. She cried with joy and held me so tightly.
 
+###### Video
+{% youtube %}
+https://youtu.be/gxptjKIhuKE
+{% endyoutube %}
+
 ###### Using
 * Corona SDK
+* Love
 <br />
 
 ---
@@ -55,6 +73,7 @@ IPCamWeb is a solution which allows users to watch raw h.264 and aac streams fro
 ###### Flow
 ![](assets/ipcamweb.png)
 <br />
+###### Using
 * Python
 * FFmpeg
 * C
@@ -68,7 +87,7 @@ IPCamWeb is a solution which allows users to watch raw h.264 and aac streams fro
 <br />
 ###### How was Dr. Elly Started?
 
-In order to get the ticket of the worldwide final, we started to develop a new game by redesigning Fantasia with new graphics, stories and a new upgrade system. The new game is called Dr. Elly and it's gameplay is almost the same as Fantasia. 
+In order to get the ticket of the Imagine Cup worldwide final, we started to develop a new game by redesigning Fantasia with new graphics, stories and a new upgrade system. The new game is called Dr. Elly and it's gameplay is almost the same as Fantasia. 
 
 ###### Better Graphics
 
