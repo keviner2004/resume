@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Languages](languages.md)
-* [education](education.md)
+* [Education](education.md)
 * [Work Experiences](workexperiences.md)
 * [Skills](skills.md)
 * [Awards](awards.md)

@@ -9,7 +9,7 @@
 
 ![](assets/my.jpg)
 
-My name is Chih Hsuan Hsiao. I have **4.5 years** of work experience about **software development**. 
+My name is Chih Hsuan Hsiao. I have **9 years** of programing experience and almost **5 years** of work experience about **software development**.
 
 I have worked as a **software engineer** and a **system administrator** in **Chunghwa Telecom (CHT)** which is the largest telecom company in Taiwan and has **260 million customers** for three years. In CHT, I'm responsible for the **web system development** in several projects. I learned how to design **scalable systems** and acquired a lot of **network security** knowledge.
 
