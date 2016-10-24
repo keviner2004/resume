@@ -87,7 +87,7 @@ IPCamWeb is a solution which allows users to watch raw h.264 and aac streams fro
 <br />
 ###### How was Dr. Elly Started?
 
-In order to get the ticket of the Imagine Cup worldwide final, we started to develop a new game by redesigning Fantasia with new graphics, stories and a new upgrade system. The new game is called Dr. Elly and it's gameplay is almost the same as Fantasia. 
+In order to get the ticket of the Imagine Cup worldwide final, we started to develop a new game by redesigning <a href = "awards.html#fantasia">Fantasia</a> with new graphics, stories and a new upgrade system. The new game is called Dr. Elly and it's gameplay is almost the same as Fantasia. 
 
 ###### Better Graphics
 

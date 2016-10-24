@@ -11,7 +11,7 @@
 
 My name is Chih Hsuan Hsiao. I have **9 years** of programing experience and almost **5 years** of work experience about **software development**.
 
-I have worked as a **software engineer** and a **system administrator** in **Chunghwa Telecom (CHT)** which is the largest telecom company in Taiwan and has **260 million customers** for three years. In CHT, I'm responsible for the **web system development** in several projects. I learned how to design **scalable systems** and acquired a lot of **network security** knowledge.
+I have worked as a **software engineer** and a **system administrator** in **Chunghwa Telecom (CHT)** which is the largest telecom company in Taiwan and has **260 million customers** for **3 years**. In CHT, I'm responsible for the **web system development** in several projects. I learned how to design **scalable systems** and acquired a lot of **network security** knowledge.
 
 I started to join software development competitions since 2011 and I got several awards. The last award is the **winner** of **game development** from the **NTU hackathon** which is one of the largest hackathons in Asia at August 2016. It excited to got these awards but the most wonderful experience from those competitions was to make great stuff with those talent people I met from these competitions.
 
@@ -21,4 +21,4 @@ I want to communicate with people. Instead of just having conversation, I want t
 
 "With great power comes great responsibility"
 
-I believe that a coder not just write code but also make the world better. I pursue new opportunities to work with people who have the same idea.
+I believe that a coder not just write code but also make the world better. I pursue new opportunities to work with people who have the same idea. I can be reached either through this profile or by my email at keviner2004@gmail.com.
