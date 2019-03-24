@@ -1,4 +1,4 @@
-# Summary
+# Table of contents
 
 * [Introduction](README.md)
 * [Languages](languages.md)
@@ -8,3 +8,4 @@
 * [Honors & Awards](awards.md)
 * [Projects](projects.md)
 * [Contact Me](contact.md)
+

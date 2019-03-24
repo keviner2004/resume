@@ -1,6 +1,7 @@
 # Skills
 
-##Summery
+## Summery
+
 * **Game Development** Instructor.
 * **Web system development** using JAVA struts framework.
 * **Live streaming** and **transcoding application** development using **FFmpeg library**.
@@ -18,9 +19,6 @@
 * Lua
 * Java
 * C/C++
-* C#
+* C\#
 * Flex/Action Script
-
-
-
 
