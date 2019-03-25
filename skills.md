@@ -2,23 +2,22 @@
 
 ## Summery
 
-* **Game Development** Instructor.
-* **Web system development** using JAVA struts framework.
-* **Live streaming** and **transcoding application** development using **FFmpeg library**.
-* **Android NDK** development.
-* **Linux/Unix** system management.
-* **Windows & MacOSX Desktop application development** using python.
-* **RESTful API** server development using **tornado** and **Django** framework.
-* Game Development using **Corona SDK** and **Unity3D**
-* **Scalable** web system design.
-* **Adobe Flex** App development.
+* Frontend / Backend Web Development.
+* Linux / Unix System Management.
+* Android / iOS / Mac OS X / Windows App Development. 
+* Game Development.
+
+## Frameworks / Services / Tool
+
+* Spring boot
+* Kubernetes
+* Google cloud
 
 ## Programming Language
 
 * Python
-* Lua
 * Java
+* Lua
 * C/C++
-* C\#
 * Flex/Action Script
 

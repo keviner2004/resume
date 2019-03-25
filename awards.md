@@ -1,12 +1,12 @@
 # Honors & Awards
 
+I started to join software development competitions since 2011 and I got several awards. The last award is the **winner** of **game development** from the **NTU hackathon** which is one of the largest hackathons in Asia at August 2016. I was excited to got these awards but the most wonderful experience from those competitions was to make great stuff with those talent people I met from these competitions.
+
 ## Winner
 
-2016 NTU Hackathon - Games   
+2016 NTU Hackathon - Games 
 
-
-August 2016   
-
+August 2016 
 
 ### Adventure
 
@@ -29,11 +29,9 @@ A RPG named Adventure featured with image recognition. The main character named 
 
 ## Quality Award
 
-Samsung Gear App Challenge 2014   
+Samsung Gear App Challenge 2014 
 
-
-September 2014   
-
+September 2014 
 
 ### Musicrun
 
@@ -52,11 +50,9 @@ Musicrun help you changing music while running. The app switches songs based on 
 
 ## 3rd Prize
 
-Hami App Challenge of Chunghwa Telecom - Telecom Innovation and Application Contest   
+Hami App Challenge of Chunghwa Telecom - Telecom Innovation and Application Contest 
 
-
-December 2013   
-
+December 2013 
 
 ### 7 Lanterns
 
@@ -74,11 +70,9 @@ December 2013
 
 ## 2nd Prize
 
-Imagine Cup Taiwan Final-Games   
+Imagine Cup Taiwan Final-Games 
 
-
-March 2013   
-
+March 2013 
 
 ### Fantasia
 
@@ -98,11 +92,9 @@ We also provided the multiplayer mode in our game. The other player can use his/
 
 ## Merit Award
 
-Smart Home Group of Chunghwa Telecom - Telecom Innovation and Application Contest   
+Smart Home Group of Chunghwa Telecom - Telecom Innovation and Application Contest 
 
-
-November 2011   
-
+November 2011 
 
 ### Mypipe
 

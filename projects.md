@@ -2,8 +2,7 @@
 
 ## Shoot'em Up
 
-February 2016 May – now   
-
+February 2016 May – now 
 
 Shoot-em-up is a Corona SDK STG \(Shoot 'Em Up Game\) template. It's design for the Game Developing Training Courses. The idea of the template is to create a "easy" interface for beginner game developers to finish a amazing STG together.
 
@@ -50,11 +49,9 @@ I wanted to put our daily memories to this game. I collected our photos and put 
 
 ## Doors
 
-July 2015 – October 2015   
+July 2015 – October 2015 
 
-
-The Doors project is a door control system which is used in National Kaohsiung First University of Science and Technology. It provides Restful API for access control like allowing someone to pass through the door.   
-
+The Doors project is a door control system which is used in National Kaohsiung First University of Science and Technology. It provides Restful API for access control like allowing someone to pass through the door. 
 
 ### Flow
 
@@ -85,12 +82,11 @@ IPCamWeb is a solution which allows users to watch raw h.264 and aac streams fro
 
 ## Dr. Elly
 
-March 2013 - now   
-
+March 2013 - now 
 
 ### How was Dr. Elly Started?
 
-In order to get the ticket of the Imagine Cup worldwide final, we started to develop a new game by redesigning [Fantasia](https://github.com/keviner2004/resume/tree/668431c1e128bd288795c954135003b550a0f55f/awards.html#fantasia) with new graphics, stories and a new upgrade system. The new game is called Dr. Elly and it's gameplay is almost the same as Fantasia.
+In order to get the ticket of the Imagine Cup worldwide final, we started to develop a new game by redesigning [Fantasia](https://github.com/keviner2004/resume/tree/668431c1e128bd288795c954135003b550a0f55f/awards.html#fantasia) with new graphics, stories and a new upgrade system. The new game is called Dr. Elly and its gameplay is almost the same as Fantasia.
 
 ### Better Graphics
 
