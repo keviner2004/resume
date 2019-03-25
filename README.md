@@ -16,7 +16,7 @@ Taipei City, Taiwan \| Computer Software
 
 My name is **Chih Hsuan Hsiao**. I have started programming since I'm in the University and I have almost **7 years** of working experience about **software development**.
 
-I'm a **software development manager** in **Contribulet** which is a **startup** company focusing on the **fundraising** and **local business**. My job is building the system and scheduling the development roadmap for marketings and developers. It's a very unique experience to work at the startup and I learned a lot from it. I've worked ****without supervision and I really enjoy the feeling that we have grown together.
+I'm a **software development manager** in **Contribulet** which is a **startup** company focusing on the **fundraising** and **local business**. My job is building the system and scheduling the development roadmap for marketings and developers. It's a very unique experience to work at the startup and I learned a lot from it. I've worked almost everyday and I really enjoy the feeling that we have grown together.
 
 I love programming and believe it's a great power can change the world. I pursue new opportunities to work with people who have the same idea. I can be reached either through this profile or by my email at **keviner2004@gmail.com**.
 
