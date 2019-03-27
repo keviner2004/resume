@@ -4,7 +4,7 @@
 
 * Frontend / Backend Web Development.
 * Linux / Unix System Management.
-* Android / iOS / Mac OS X / Windows App Development. 
+* Android / Mac OS X / Windows App Development. 
 * Game Development.
 
 ## Frameworks / Services / Tool
@@ -18,6 +18,4 @@
 * Python
 * Java
 * Lua
-* C/C++
-* Flex/Action Script
 
