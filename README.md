@@ -14,7 +14,7 @@ Taipei City, Taiwan \| Computer Software
 
 ![](.gitbook/assets/my.jpg)
 
-My name is **Chih Hsuan Hsiao**. I have started programming since I'm in the University and I have almost **7 years** of working experience about **software development**.
+My name is **Chih Hsuan Hsiao**. I have started programming since I'm in the University and I have almost **7 years** of working experience in **software development**.
 
 I'm a **software development manager** in **Contribulet** which is a **startup** company focusing on the **fundraising** and **local business**. I build the system from scratch, schedule the development roadmap for the team and make sure all features will be delivered on time. It's a very unique experience to work at the startup and I learned a lot from it. I've worked almost every day and I really enjoy the feeling that we have grown together.
 
