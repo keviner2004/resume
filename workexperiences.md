@@ -23,7 +23,7 @@
 At the September 2016, Professor Chu in **National Kaohsiung First University of Science and Technology \(NKFUST\)** and I got the Taiwan's government grant for open the game development course in NKFUST. I also created an **open-sourced Shoot'Em UP Game \(STG\)** template for the course. We'll put the game into an **arcade machine** which will place in the campus. At the same time, I quit my job from CHT and became an **instructor**. Now I'm not just a taker, but also a giver.
 
 * Game Development.
-* Lus, Corona SDK
+* Lua, Corona SDK
 
 ## Software Engineer, System Engineer
 
