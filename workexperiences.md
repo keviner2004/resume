@@ -11,6 +11,8 @@
 * Technical team leader.
 * B2B2C system design and development.
 * Fintech solution.
+* RESTful API design / development.
+* Java, Python, Spring boot, mybatis, SQL, kubernates, Google Cloud.
 
 ## Instructor
 
@@ -20,8 +22,8 @@
 
 At the September 2016, Professor Chu in **National Kaohsiung First University of Science and Technology \(NKFUST\)** and I got the Taiwan's government grant for open the game development course in NKFUST. I also created an **open-sourced Shoot'Em UP Game \(STG\)** template for the course. We'll put the game into an **arcade machine** which will place in the campus. At the same time, I quit my job from CHT and became an **instructor**. Now I'm not just a taker, but also a giver.
 
-* Game Development using Corona SDK
-* Internet of Things \(IoT\)
+* Game Development.
+* Lus, Corona SDK
 
 ## Software Engineer, System Engineer
 
@@ -33,8 +35,9 @@ I had worked as a **software engineer** and a **system administrator** in **Chun
 
 * Network and system security.
 * System management.
-* Scalable web system design and development.
+* Web system design and development.
 * Software outsourcing management.
+* Java, SQL, Struts, CentOS
 
 ## Software Engineer
 
@@ -43,4 +46,5 @@ I had worked as a **software engineer** and a **system administrator** in **Chun
 > September 2011 – July 2013 \(1 year 11 months\) \| 7F.-2, No.185, Songjiang Rd., Zhongshan Dist., Taipei City 104, Taiwan \(R.O.C.\)
 
 * Adobe Flex app development for live streaming.
+* Flex / Flash
 
