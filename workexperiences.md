@@ -12,7 +12,7 @@ I'm a **software development manager** in **Contribulet** which is a **startup**
 
 * Technical team leader in development team with other 2 developers.
 * B2B2C system design and development.
-* Fintech solution.
+* Fintech solution: Voucher / Gift card system, POS integration, and payment gateway integration.
 * RESTful API design / development.
 * Java, Python, Spring boot, mybatis, SQL, kubernates, Google Cloud.
 
@@ -37,7 +37,7 @@ I had worked as a **software engineer** and a **system administrator** in **Chun
 
 * Network and system security.
 * System management.
-* Web system design and development.
+* B2B2C system design and development.
 * Software outsourcing management.
 * Java, SQL, Struts, CentOS.
 
