@@ -6,14 +6,19 @@
 
 [https://www.contribulet.com/](https://www.contribulet.com/)
 
-> Aug 2017 – Present Employment \(1 year 8 months\) \| 1298 Kifer Rd, Ste 505 Sunnyvale, CA 94086
+> Aug 2017 – May 2019 \(1 year 10 months\) \| 1298 Kifer Rd, Ste 505 Sunnyvale, CA 94086
 
-I'm a **software development manager** in **Contribulet** which is a **startup** company focusing on the **fundraising** and **local business**. I build the system from scratch, schedule the development roadmap for the team and make sure all features will be delivered on time.
+I'm was a software development manager in Contribulet which is a startup company focusing on fundraising and local business. Unlike the traditional fundraising platform which the donation is from donors directly, Contribulet provides a new way for fundraising. The merchants will donate a portion of its sales to fundraisers.
+
+Imagine you order burgers from the fast food store and that cost you $10, the store may donate $2 to fundraising events you supported via Contribulet. Contribulet connects merchants, fundraisers, and customers together to make the fundraising easier and bring customers to merchants.
+
+I built the **backend** system from scratch, schedule the development **roadmap** for the team and make sure all features will be delivered on time. The backend system is composed of a **B2B2C** system, **Voucher / Gift Card** Solution, third party **payment gateway**, **POS** integration, **CI** and **Kubernates** clusters for  **microservices**.
 
 * Technical team leader in development team with other 2 developers.
 * B2B2C system design and development.
 * Fintech solution: Voucher / Gift card system, POS integration, and payment gateway integration.
 * RESTful API design / development.
+* Gitlab CI & GKE integration.
 * Java, Python, Spring boot, mybatis, SQL, kubernates, Google Cloud.
 
 ## Instructor
@@ -33,10 +38,10 @@ At the September 2016, Professor Chu in **National Kaohsiung First University of
 
 > September 2013 – August 2016 \(3 years\) \| No.21-3, Sec. 1, Xinyi Rd., Zhongzheng Dist., Taipei City 100, Taiwan
 
-I had worked as a **software engineer** and a **system administrator** in **Chunghwa Telecom \(CHT\)**, which is the largest telecom company in Taiwan and has **260 million customers**, for **3 years**. In CHT, I'm responsible for the **web system development** in several projects. I learned how to design **scalable systems** and acquired a lot of **network security** knowledge.
+I had worked as a **software engineer** and a **system administrator** in **Chunghwa Telecom \(CHT\)**, which is the largest telecom company in Taiwan and has **260 million customers**, for **3 years**. In CHT, I'm responsible for the **web system development** in several projects. I learned **network / system architecture, security knowledge** and methods to design **scalable systems**. 
 
 * Network and system security.
-* System management.
+* CentOS system management.
 * B2B2C system design and development.
 * Software outsourcing management.
 * Java, SQL, Struts, CentOS.
