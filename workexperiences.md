@@ -8,7 +8,9 @@
 
 > Aug 2017 – Present Employment \(1 year 8 months\) \| 1298 Kifer Rd, Ste 505 Sunnyvale, CA 94086
 
-* Technical team leader.
+I'm a **software development manager** in **Contribulet** which is a **startup** company focusing on the **fundraising** and **local business**. I build the system from scratch, schedule the development roadmap for the team and make sure all features will be delivered on time.
+
+* Technical team leader in development team with 3 developers.
 * B2B2C system design and development.
 * Fintech solution.
 * RESTful API design / development.
