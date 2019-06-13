@@ -6,7 +6,7 @@
 
 [https://www.contribulet.com/](https://www.contribulet.com/)
 
-> Aug 2017 – May 2019 \(1 year 10 months\) \| 1298 Kifer Rd, Ste 505 Sunnyvale, CA 94086
+> August 2017 – May 2019 \(1 year 10 months\) \| 1298 Kifer Rd, Ste 505 Sunnyvale, CA 94086
 
 I'm was a software development manager in Contribulet which is a startup company focusing on fundraising and local business. Unlike the traditional fundraising platform which the donation is from donors directly, Contribulet provides a new way for fundraising. The merchants will donate a portion of its sales to fundraisers.
 
@@ -36,7 +36,7 @@ At the September 2016, Professor Chu in **National Kaohsiung First University of
 
 #### Chunghwa Telecom 
 
-> September 2013 – August 2016 \(3 years\) \| No.21-3, Sec. 1, Xinyi Rd., Zhongzheng Dist., Taipei City 100, Taiwan
+> August 2013 – August 2016 \(3 years\) \| No.21-3, Sec. 1, Xinyi Rd., Zhongzheng Dist., Taipei City 100, Taiwan
 
 I had worked as a **software engineer** and a **system administrator** in **Chunghwa Telecom \(CHT\)**, which is the largest telecom company in Taiwan and has **260 million customers**, for **3 years**. In CHT, I'm responsible for the **web system development** in several projects. I learned **network / system architecture, security knowledge** and methods to design **scalable systems**. 
 
