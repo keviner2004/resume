@@ -36,7 +36,7 @@ At the September 2016, Professor Chu in **National Kaohsiung First University of
 
 #### Chunghwa Telecom 
 
-> August 2013 – August 2016 \(3 years\) \| No.21-3, Sec. 1, Xinyi Rd., Zhongzheng Dist., Taipei City 100, Taiwan
+> September 2013 – August 2016 \(3 years\) \| No.21-3, Sec. 1, Xinyi Rd., Zhongzheng Dist., Taipei City 100, Taiwan
 
 I had worked as a **software engineer** and a **system administrator** in **Chunghwa Telecom \(CHT\)**, which is the largest telecom company in Taiwan and has **260 million customers**, for **3 years**. In CHT, I'm responsible for the **web system development** in several projects. I learned **network / system architecture, security knowledge** and methods to design **scalable systems**. 
 
