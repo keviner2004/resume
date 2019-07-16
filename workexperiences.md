@@ -1,5 +1,17 @@
 # Work Experiences
 
+### Software Engineer
+
+**LINE Plus Corp**
+
+> July 2019 – Now \| 1298 Kifer Rd, Ste 505 Sunnyvale, CA 94086
+
+Technical team leader in development team with other 2 developers.
+
+* Line pay engineer.
+
+
+
 ### Software Development Manager
 
 #### Contribulet Inc. 
